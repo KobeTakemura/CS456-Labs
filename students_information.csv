@@ -1,0 +1,51 @@
+Student_ID,Score,Major,Graduation_Year,Pass/Fail,Letter_Grade
+6842,41.68,Engineering,2025,False,F
+5456,40.07,Engineering,2025,False,F
+5366,41.47,Computer Science,2027,False,F
+1727,57.06,Computer Science,2026,False,F
+2528,62.88,Computer Science,2029,False,D
+3148,32.67,Physics,2027,True,F
+8416,33.34,Biology,2029,False,F
+2403,24.22,Biology,2029,False,F
+4422,53.62,Engineering,2028,True,F
+8206,54.95,Engineering,2026,True,F
+5268,49.65,Physics,2027,False,F
+2988,90.73,Biology,2026,False,A
+1502,28.25,Mathematics,2025,True,F
+8575,65.71,Biology,2029,False,D
+4461,31.46,Engineering,2026,True,F
+9312,59.23,Physics,2028,False,F
+4674,23.19,Physics,2025,False,F
+5814,22.04,Biology,2026,True,F
+6292,76.39,Physics,2028,False,C
+9976,58.3,Computer Science,2029,False,F
+6055,30.3,Mathematics,2028,False,F
+8328,57.99,Engineering,2029,False,F
+1759,51.79,Biology,2025,False,F
+5406,21.17,Computer Science,2029,False,F
+4037,94.67,Mathematics,2025,False,A
+7248,59.2,Mathematics,2027,True,F
+9752,92.92,Mathematics,2028,True,A
+9733,69.38,Physics,2027,True,D
+3226,84.3,Computer Science,2029,True,B
+8124,75.9,Engineering,2025,False,C
+3285,90.45,Biology,2027,True,A
+8422,87.83,Physics,2029,False,B
+7139,79.72,Mathematics,2026,False,C
+6147,45.08,Engineering,2026,True,F
+8662,77.03,Engineering,2026,False,C
+9533,71.99,Engineering,2028,True,C
+2492,85.41,Mathematics,2028,True,B
+8719,37.52,Biology,2027,True,F
+2187,56.84,Physics,2029,False,F
+1498,68.11,Computer Science,2027,False,D
+1960,52.83,Physics,2026,False,F
+4454,29.9,Physics,2027,True,F
+9768,32.18,Physics,2029,True,F
+3113,84.22,Mathematics,2029,True,B
+7474,91.33,Engineering,2027,True,A
+4602,64.47,Computer Science,2028,False,D
+2912,50.26,Biology,2026,False,F
+3925,85.09,Engineering,2027,True,B
+6833,33.07,Biology,2029,False,F
+1819,98.88,Mathematics,2025,False,A
